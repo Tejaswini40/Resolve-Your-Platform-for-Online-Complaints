@@ -1,6 +1,6 @@
 
 
-             PLATFORM FOR-ONLINE COMPLAINT REGISTRATION
+          PLATFORM FOR-ONLINE COMPLAINT REGISTRATION
 
 
 📝 Project Overview
@@ -98,6 +98,7 @@ Mobile-friendly layout for both user and admin interfaces.
 Search & Filters
 
 Search complaints by keyword, category, status, or date.
+
 
 💻 Technology Stack
 
