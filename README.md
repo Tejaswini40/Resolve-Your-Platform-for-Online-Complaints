@@ -161,6 +161,8 @@ server/
 ├── package.json
 └── README.md
 
+Visit:http://localhost:3000/
+
 📬 Optional Enhancements
 Admin dashboard with charts (e.g., using Recharts or Chart.js)
 
