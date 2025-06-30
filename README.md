@@ -173,3 +173,6 @@ Export complaint data (CSV/PDF)
 Drive Link for Templates
 :https://drive.google.com/drive/folders/1misGNNfuhjkDeKhw7Wg5L5FTsHe89JRn?usp=sharing
 
+📄 Project Templates
+https://github.com/Tejaswini40/Resolve-Your-Platform-for-Online-Complaints/tree/master
+
